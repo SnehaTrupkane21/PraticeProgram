@@ -16,8 +16,14 @@ public class implicitWait {
 	   driver.findElement(By.xpath("//*[@id='pass']")).sendKeys("sneha@21");
 	
 	   driver.findElement(By.xpath("//*[@name='login']")).click();
+
 	   System.out.println("this code is changed by sneha from eclipse");
-	   
+
+	        System.out.println("Hi this is user two");
+
+
+
+
 	}
 
 	
