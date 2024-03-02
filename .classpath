@@ -56,5 +56,75 @@
 	<classpathentry kind="lib" path="C:/All Files Programs and notes/poi-bin-5.2.3-20220909/poi-bin-5.2.3/xmlbeans-5.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/All Files Programs and notes/poi-bin-5.2.3-20220909/poi-bin-5.2.3/xmlgraphics-commons-2.6.jar"/>
 	<classpathentry kind="lib" path="C:/All Files Programs and notes/poi-bin-5.2.3-20220909/poi-bin-5.2.3/xmlsec-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.15.0/selenium-chrome-driver-4.15.0.jar" sourcepath="C:/Users/USER/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.15.0/selenium-chrome-driver-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="4.15.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Selenium"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-support-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-support-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-safari-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-safari-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-remote-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-remote-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-os-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-os-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-manager-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-manager-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-json-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-json-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-java-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-java-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-ie-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-ie-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-http-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-http-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-firefox-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-firefox-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-edge-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-edge-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-devtools-v119-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-devtools-v119-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-devtools-v118-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-devtools-v118-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-devtools-v117-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-devtools-v117-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-devtools-v85-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-devtools-v85-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-chromium-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-chromium-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-chrome-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-chrome-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-api-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/selenium-api-4.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-java-4.15.0/auto-service-annotations-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
