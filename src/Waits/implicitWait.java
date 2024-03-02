@@ -17,6 +17,10 @@ public class implicitWait {
 	
 	   driver.findElement(By.xpath("//*[@name='login']")).click();
 	   
+     System.out.println("Hi this is user two");
+
+
+
 	}
 
 	
