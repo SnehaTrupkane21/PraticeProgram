@@ -24,7 +24,11 @@ public class implicitWait {
 	        System.out.println("Good eveing ");
 
 	        System.out.println("hii how are you ");
-
+     
+        int a=10;
+  int b=20;
+int c=a+b;
+System.out.println(c);
 
 
 
